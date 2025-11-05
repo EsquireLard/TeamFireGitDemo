@@ -1,4 +1,5 @@
-Collaborators:
+\# Collaborators:
 
-Dante Chacon
-Chris was here!
+* Dante Chacon
+* Nelson Sung
+  Chris was here!
